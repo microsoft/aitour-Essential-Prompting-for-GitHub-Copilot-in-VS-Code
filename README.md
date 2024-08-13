@@ -6,27 +6,17 @@ To help prepare content for AI Tour, please use this template repository for org
 5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
 
 
-# [TODO: Insert Session Title]
+# Essential Prompting for GitHub Copilot in VS Code
 
-This repo is intended as a template for Microsoft AI Tour repositories
-
-## Session Desciption
-
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+In this session you will learn how to set up GitHub Copilot in VS Code and then use it to do some interesting things that will save you time and effort.
 
 ## Learning Outcomes
-TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
 
-## Technology Used
-TODO: Add a list of any technology or software used.
+In this session, you will learn how to:
 
-## Additional Resources and Continued Learning
-TODO: If you would like to link the user to further learning, please enter that here.
-
-| Resources          | Links                             | Description        |
-|:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+ - Use the Copilot Chat window, along with chat participants and variables, to brainstorm solutions for your project.
+ - Use inline chat in the editor to refactor and document your code.
+ - Use inline chat in the terminal to execute time-saving commands.
 
 ## Content Owners
 TODO: Add yourself as a content owner
@@ -37,15 +27,21 @@ TODO: Add yourself as a content owner
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <table>
-<tr>
-    <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
-"/><br />
-        <sub><b>INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
-    </td>
-</tr></table>
+  <tr>
+      <td align="center"><a href="http://learnanalytics.microsoft.com">
+          <img src="https://github.com/buholland.png" width="100px;" alt="Burke Holland"/><br />
+          <sub><b>Burke Holland</b></sub></a><br />
+          <a href="https://github.com/buholland" title="talk">📢</a> 
+      </td>
+  </tr>
+  <tr>
+      <td align="center"><a href="http://learnanalytics.microsoft.com">
+          <img src="https://github.com/robconery.png" width="100px;" alt="Rob Conery"/><br />
+          <sub><b>Rob Conery</b></sub></a><br />
+          <a href="https://github.com/robconery" title="talk">📢</a> 
+      </td>
+  </tr>
+</table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
