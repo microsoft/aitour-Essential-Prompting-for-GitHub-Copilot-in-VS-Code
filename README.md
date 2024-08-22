@@ -2,6 +2,8 @@
 
 In this session you will learn how to set up GitHub Copilot in VS Code and then use it to do some interesting things that will save you time and effort.
 
+![Title Slide](/screenshot_1048.jpg)
+
 ## Learning Outcomes
 
 In this session, you will learn how to:
