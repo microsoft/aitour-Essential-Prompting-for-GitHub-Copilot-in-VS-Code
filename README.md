@@ -18,8 +18,9 @@ In this session, you will learn how to:
 <table>
   <tr>
       <td align="center"><a href="http://learnanalytics.microsoft.com">
+       <img src="https://github.com/burkeholland.png" width="100px;" alt="Burke Holland"/><br />
           <sub><b>Burke Holland</b></sub></a><br />
-          <a href="https://github.com/burkeholland.png" title="talk">📢</a> 
+          <a href="https://github.com/burkeholland" title="talk">📢</a> 
       </td>
   </tr>
   <tr>
