@@ -19,7 +19,7 @@ In this session, you will learn how to:
   <tr>
       <td align="center"><a href="http://learnanalytics.microsoft.com">
           <sub><b>Burke Holland</b></sub></a><br />
-          <a href="https://github.com/buholland" title="talk">📢</a> 
+          <a href="https://github.com/burkeholland.png" title="talk">📢</a> 
       </td>
   </tr>
   <tr>
