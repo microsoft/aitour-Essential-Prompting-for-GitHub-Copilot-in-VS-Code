@@ -1,8 +1,14 @@
 # Essential Prompting for GitHub Copilot in VS Code
 
-In this session you will learn how to set up GitHub Copilot in VS Code and then use it to do some interesting things that will save you time and effort.
+This repo is a companion to this session at Microsoft AI Tour, a worldwide tour of events.
 
-![Title Slide](/screenshot_1048.jpg)
+> Learn more about Microsoft AI Tour on the official website.
+
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background](img/session-cover.jpg)
+
+## Session Description
+
+In this session you will learn how to set up GitHub Copilot in VS Code and then use it to do some interesting things that will save you time and effort.
 
 ## Learning Outcomes
 
@@ -12,6 +18,10 @@ In this session, you will learn how to:
  - Use inline chat in the editor to refactor and document your code.
  - Use inline chat in the terminal to execute time-saving commands.
 
+## Technology Used
+
+- VS Code
+- GitHub Copilot
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
