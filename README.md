@@ -23,6 +23,14 @@ In this session, you will learn how to:
 - VS Code
 - GitHub Copilot
 
+## Additional Resources and Continued Learning
+
+You can find additional resources, including the slides of the presentation, [here](./SESSION_RESOURCES.md).
+
+If you will present this talk, you can find the [trainer resources here](./train-the-trainer/README.md). 
+
+## Content Owners
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <table>
