@@ -8,6 +8,6 @@
 
 | Resources                                             | Links                                                     | Description                                                                                   |
 | :---------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| Session slides                                        | [View  Slides ](https://aka.ms/AAryr68)                        | Review the slides at your own pace                                                            |
+| Session slides                                        | [View  Slides ](https://aka.ms/AArzgvk)                        | Review the slides at your own pace                                                            |
 | GitHub Copilot                                   | [GitHub Copilot](https://github.com/features/copilot) | Read more about GitHub Copilot                                                        |
 
