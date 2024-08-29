@@ -10,4 +10,5 @@
 | :---------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
 | Session slides                                        | [View  Slides ](https://aka.ms/AArzgvk)                        | Review the slides at your own pace                                                            |
 | GitHub Copilot                                   | [GitHub Copilot](https://github.com/features/copilot) | Read more about GitHub Copilot                                                        |
+| Train the Trainer Video Walkthrough                   | [View Video](https://aka.ms/AArsif2) | Watch a 28 minute video walkthrough on how to give the talk                                                   |
 
