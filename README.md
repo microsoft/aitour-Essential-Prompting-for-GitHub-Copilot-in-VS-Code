@@ -21,13 +21,13 @@ In this session, you will learn how to:
 ## Technology Used
 
 - VS Code
-- GitHub Copilot
+- [GitHub Copilot](https://github.com/features/copilot)
 
 ## Additional Resources and Continued Learning
 
-You can find additional resources, including the slides of the presentation, [here](./SESSION_RESOURCES.md).
+You can find additional resources, including the slides of the presentation, [here](./session-delivery-resources/README.md).
 
-If you will present this talk, you can find the [trainer resources here](./session-delivery-resources/README.md). 
+If you will present this talk, you can find the [session delivery resources](./session-delivery-resources/README.md). 
 
 ## Content Owners
 
