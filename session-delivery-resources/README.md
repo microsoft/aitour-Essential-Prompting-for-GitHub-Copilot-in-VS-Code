@@ -2,7 +2,7 @@
 
 > Learn more about Microsoft AI Tour on the official website.
 
-![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/session-cover.jpg)
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](../img/session-cover.jpg)
 
 ## Slides & resources
 
