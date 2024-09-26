@@ -5,8 +5,8 @@ You can use Copilot to teach you new concepts, even entire languages and framewo
 
   - Open the chat window and ask: `@vscode what are the best extensions for working with Rust?`. You will see a list of useful extensions.
   - Ask Copilot `what is the file extension for a Rust code file?`. You should see `.rs` as the result.
-  - Create a file called `app.rs`, which is a Rust code file.
-  - Use CTRL-I in `app.rs` to ask for the starting code: `create a class or module that has the following string methods: reverse, camelCase, capitalize, isPalindrome `. Examine the code, compare to your current language.
+  - Create a file called `main.rs`, which is a Rust code file.
+  - Use CTRL-I in `main.rs` to ask for the starting code: `create a class or module that has the following string methods: reverse, camelCase, capitalize, isPalindrome `. Examine the code, compare to your current language.
 
 ## Bonus 
 
