@@ -1,4 +1,4 @@
-# What Is Copilot?
+# What Is Copilot? 
 
 Starting from nothing, we want to show what Copilot is, and how it works in general.
 
