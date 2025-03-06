@@ -1,4 +1,4 @@
-# Essential GitHub Copilot Techniques in VS Code
+# Essential Prompting for GitHub Copilot in VS Code
 
 This repo is a companion to this session at Microsoft AI Tour, a worldwide tour of events.
 
